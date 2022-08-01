@@ -9,10 +9,10 @@ else if (50 <= me) {
     document.getElementById("result").innerHTML = "C";
 }
     
-else if (40 <= me) {
+else if (33 <= me) {
     document.getElementById("result").innerHTML = "D";
 }
-else if (39 >= me) {
+else if (32 >= me) {
     document.getElementById("result").innerHTML = "F";
 }
     
